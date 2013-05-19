@@ -1,4 +1,6 @@
 #include <stdio.h>
-{
-  printd ("Hola Mundo");
+int main(){
+
+  printf ("Hola Mundo");
+  return 0;
   }
